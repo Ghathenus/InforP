@@ -1,0 +1,16 @@
+[{
+	"promo_id"              : "BOGO-01" ,
+	"products"              : "Coke 6 Pack, Pepsi" ,
+	"stores"                : "Tunis Lac 1",
+	"start_date"    	: "2021-02-25",
+	"end_date"    		: "2021-01-10",
+	"promo_multiplier"    	: 2
+},
+{
+	"promo_id"              : "PERCENTAGE-01" ,
+	"products"              : "Coke 6 Pack, Pepsi" ,
+	"stores"                : "Tunis Lac 1",
+	"start_date"    	: "2020-02-25",
+	"end_date"    		: "2020-01-10",
+	"promo_multiplier"    	: 2
+}]

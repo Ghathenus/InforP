@@ -1,0 +1,12 @@
+[{
+	"product"             : "Coke 6 pack" ,
+	"store"               : "Tunis Lac 1" ,
+	"week"                : "2020-01-10",
+	"baselineforecast"    : 7
+},
+{
+	"product"             : "Coke 6 pack" ,
+	"store"               : "Tunis Lac 2" ,
+	"week"                : "2020-01-10",
+	"baselineforecast"    : 7
+}]
